@@ -1,1 +1,18 @@
 
+Pyber Ride Sharing
+
+
+Analysis
+
+Observed Trend 1: The 'Urban area' has the most drivers and riders, and fares which would suggest most rides, 
+though they are at a lower cost that those seen in the 'Rural area' as it is compared dollar per distance traveled. 
+
+Observed Trend 2: The 'Rural area' has the least riders and drivers, however, the total fares percentage is around 6.7% 
+more than the expected proportion (ACTUAL riders =5.3%, PROJECTED riders=3.1%). This indicates that the demand for drivers
+is hitherto higher and may cause riders to dispense more money on rides in the 'Rural area' per trip as compared to the average distance and cost of a ride in the urban environment.
+Therefore we may safely infer that distance is another factor that causes a higher fee per ride.The scatter plot also 
+supports the inference made from the data analyzed.
+
+Observed Trend 3: Although 'Urban area' has the most riders and drivers, and the average fares are rather low. 
+This could be due to a surplus of drivers (77.85% driver > 68.4% riders from pie chart) as demonstrated by the data
+or additionally the data supports markedly shorter distances per ride.
